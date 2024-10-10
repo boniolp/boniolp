@@ -9,6 +9,8 @@ My research interest lies in the intersections between:
 -  Unsupervised and supervised anomaly detection methods for large time series.
 -  Machine learning for time series analytics.
 
+You may find more info on [my personal website](https://boniolp.github.io/)
+
 <!--
 **boniolp/boniolp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
